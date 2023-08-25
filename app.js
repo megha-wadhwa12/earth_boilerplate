@@ -2,7 +2,7 @@ var bodyvar=document.body
 console.log("bodyvar: "  ,bodyvar)
 
 var climate = document.getElementById("climate")
-console.log("climate:",climate);
+console.log("climate: ",climate);
 var consumption = document.getElementById("consumption")
 console.log("consumption: ",consumption);
 var resources = document.getElementById("resources")
@@ -78,7 +78,7 @@ resources.style.background="#EB9455"
 
 people.onclick=()=>{
 
-    
+
 
 //background
 bodyvar.style.background = "url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/poverty-bg%5B1%5D.png')"
