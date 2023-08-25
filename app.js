@@ -67,7 +67,7 @@ climate.style.background = ("transparent")
 consumption.style.background = ("transparent")
 people.style.background = ("transparent")
 
-//frame
+//frame 
 frame.src = "https://www.theworldcounts.com/embed/challenges/5?background_color=transparent&color=white&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=20"
 
 saveText.innerHTML = (' Do your bit! Avoid all things plastic. Believe in Reduce, Reuse and Recycle')
@@ -77,6 +77,8 @@ resources.style.background="#EB9455"
 }
 
 people.onclick=()=>{
+
+    
 
 //background
 bodyvar.style.background = "url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/poverty-bg%5B1%5D.png')"
